@@ -1,0 +1,40 @@
+h1{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: chocolate;
+    background-color: cadetblue;
+
+}
+h2{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgray;
+}
+
+p{
+        color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 1rem;
+        margin-left: 1cm;
+}
+
+p1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    margin-left: 1cm;
+}
+
+p2{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    margin-left: 1cm;
+}
+
+a{
+  color: chocolate;  
+}
